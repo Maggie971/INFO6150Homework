@@ -1,2 +1,2 @@
 # INFO6150Homework
-My course assignment.
+Hello, this is my course assignment.
